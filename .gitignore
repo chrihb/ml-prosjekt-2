@@ -3,3 +3,5 @@ __pycache__
 .idea
 .venv
 unsupervised_data.csv
+best_model_*
+submission.csv
